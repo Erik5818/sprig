@@ -1,3 +1,11 @@
+/*
+@Sprig-Game-Arcade
+@Erik5818
+@My game is a arcade made up of classic games like pong, snake, asteroids, and more!
+@tags: ['arcade', 'collection']
+@addedOn: 2026-04-26
+*/
+
 const EMPTY_MAP = map`
 ................
 ................
